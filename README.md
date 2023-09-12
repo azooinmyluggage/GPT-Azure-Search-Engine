@@ -9,7 +9,7 @@ Your organization requires a Multi-Channel Smart Chatbot and a search engine cap
 The goal of the POC is to show/prove the value of a GPT Virtual Assistant built with Azure Services, with your own data in your own environment. The deliverables are:
 
 1. Backend Bot API built with Bot Framework and exposed to multiple channels (Web Chat, MS Teams, SMS, Email, Slack, etc)
-2. Frontend web application with a Search and a Bot UI.
+2. Frontend web application with a Search and a Bot UI
 
 The repo is made to teach you step-by-step on how to build a OpenAI-based Smart Search Engine. Each Notebook builds on top of each other and ends in building the two applications.
 
